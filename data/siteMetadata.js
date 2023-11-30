@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Kodeine Blog',
   author: 'Kodeine',
   headerTitle: 'KodeineBlog',
-  description: 'Hi, I am Kodeine - a young-dumb web developer',
+  description: 'Hi, I am Kodeine - a young-dumb web developer in Viet Nam 🇻🇳',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
