@@ -1,4 +1,5 @@
 import 'css/tailwind.css'
+import 'css/twemoji.css'
 import 'pliny/search/algolia.css'
 
 import { Outfit, Space_Grotesk } from 'next/font/google'
