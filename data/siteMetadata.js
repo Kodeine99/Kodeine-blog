@@ -7,9 +7,9 @@ const siteMetadata = {
   typingStrings: [
     'I live in Ha Noi, Viet Nam.',
     'My favourite programing language is JS, TS.',
-    'I love playing Soccer.',
-    'I love playing PUBG.',
+    'I love playing Soccer ⚽️⚽️⚽️.',
     'I love web development.',
+    'I love ✈️ ✈️ traveling too.',
   ],
   language: 'en-us',
   theme: 'system', // system, dark or light
