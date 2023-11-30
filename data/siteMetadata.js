@@ -4,6 +4,13 @@ const siteMetadata = {
   author: 'Kodeine',
   headerTitle: 'KodeineBlog',
   description: 'Hi, I am Kodeine - a young-dumb web developer in Viet Nam 🇻🇳',
+  typingStrings: [
+    'I live in Ha Noi, Viet Nam.',
+    'My favourite programing language is JS, TS.',
+    'I love playing Soccer.',
+    'I love playing PUBG.',
+    'I love web development.',
+  ],
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',

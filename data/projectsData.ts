@@ -1,3 +1,4 @@
+import Twemoji from '../components/Twemoji'
 const projectsData = [
   {
     title: 'A Search Engine',
